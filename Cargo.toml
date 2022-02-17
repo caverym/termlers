@@ -1,0 +1,13 @@
+[package]
+name = "termle"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+rustyline = "9.1.2"
+lliw = "0.2.0"
+pico-args = "0.4.2"
+crossterm = "0.23"
